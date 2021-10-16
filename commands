@@ -1,0 +1,34 @@
+npx expo-cli init food-app --npm
+cd food-app
+- npm start # you can open iOS, Android, or web from here, or run them directly with the commands below.
+- npm run android
+- npm run ios
+- npm run web
+
+//react-navigation
+npm install react-navigation
+
+//install Dependencies
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+//Install React Navigation Stack
+npm install react-navigation-stack @react-native-community/masked-view
+
+//Start the app and clear cache with
+expo r -c
+
+//Yelp
+My App
+Client ID
+4H1VvPpVHi1T9u2FuyB6xQ
+
+API Key
+TaqTk72Q6oe6TfHOzQBeRCG1OXWP7u804OQXDl4_QYEsxK_BwJr1WuDjH_4LHzn-9dQCggXipNHQw0gFQGCWGuG2zkWTHtWVCZRv61FlwHLXxg61gvsVHXLQS9ZoYXYx
+
+//git
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/adolfredo-coneo/food-app.git
+git push -u origin main
