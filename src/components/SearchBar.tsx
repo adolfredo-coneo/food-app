@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
     height: 50,
     borderRadius: 10,
     padding: 10,
-    margin: 15,
+    margin: 10,
     flexDirection: 'row',
   },
   searchIcon: {

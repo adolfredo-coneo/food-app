@@ -17,6 +17,12 @@ npm install react-navigation-stack @react-native-community/masked-view
 //Start the app and clear cache with
 expo r -c
 
+//axios
+npm install axios
+
+//dotenv development
+npm i react-native-dotenv
+
 //Yelp
 My App
 Client ID
